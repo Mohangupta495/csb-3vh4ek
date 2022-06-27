@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://mohangupta495.github.io/csb-3vh4ek/static/css/main.a9fdb8e0.chunk.css",
+    "main.js": "https://mohangupta495.github.io/csb-3vh4ek/static/js/main.fe938205.chunk.js",
+    "main.js.map": "https://mohangupta495.github.io/csb-3vh4ek/static/js/main.fe938205.chunk.js.map",
+    "runtime-main.js": "https://mohangupta495.github.io/csb-3vh4ek/static/js/runtime-main.12ec0fd8.js",
+    "runtime-main.js.map": "https://mohangupta495.github.io/csb-3vh4ek/static/js/runtime-main.12ec0fd8.js.map",
+    "static/css/2.cc57a610.chunk.css": "https://mohangupta495.github.io/csb-3vh4ek/static/css/2.cc57a610.chunk.css",
+    "static/js/2.215f8b00.chunk.js": "https://mohangupta495.github.io/csb-3vh4ek/static/js/2.215f8b00.chunk.js",
+    "static/js/2.215f8b00.chunk.js.map": "https://mohangupta495.github.io/csb-3vh4ek/static/js/2.215f8b00.chunk.js.map",
+    "index.html": "https://mohangupta495.github.io/csb-3vh4ek/index.html",
+    "static/css/2.cc57a610.chunk.css.map": "https://mohangupta495.github.io/csb-3vh4ek/static/css/2.cc57a610.chunk.css.map",
+    "static/css/main.a9fdb8e0.chunk.css.map": "https://mohangupta495.github.io/csb-3vh4ek/static/css/main.a9fdb8e0.chunk.css.map",
+    "static/js/2.215f8b00.chunk.js.LICENSE.txt": "https://mohangupta495.github.io/csb-3vh4ek/static/js/2.215f8b00.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12ec0fd8.js",
+    "static/css/2.cc57a610.chunk.css",
+    "static/js/2.215f8b00.chunk.js",
+    "static/css/main.a9fdb8e0.chunk.css",
+    "static/js/main.fe938205.chunk.js"
+  ]
+}
